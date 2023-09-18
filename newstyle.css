@@ -1,0 +1,10 @@
+input, button {
+	color: orange;
+	font-family: 'Courier New', Courier, monospace;
+	border-radius: 10px;
+}
+
+p {
+	color: blue;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
