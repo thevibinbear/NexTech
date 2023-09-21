@@ -1,0 +1,96 @@
+<!-- Team Starts Here -->
+    <div class="team-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 offset-md-2">
+            <div class="section-heading">
+              <span>Our Team</span>
+              <h2>Meet the Team that made OVCT possible</h2>
+              <p></p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/697865874593415289/3d2f606d4785488f171eae8f33518554.webp?size=195?size=60" alt="">
+              <div class="down-content">
+                <h4>Rahul Verma</h4>
+                <span>Head Coordinator</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/781351242295279626/8ceeb20edf5537ad255d2843e6e32fa7.webp" alt="">
+              <div class="down-content">
+                <h4>Kyle Liang</h4>
+                <span>Senior Staff</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/789671179304173638/e24eac1fd85b549e10fe07716abd9e41.webp" alt="">
+              <div class="down-content">
+                <h4>Jacob Wu</h4>
+                <span>Senior Staff</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/772915258435567617/cab9148bb7fce52f66c82a131a164bfd.webp" alt="">
+              <div class="down-content">
+                <h4>Rithvik Madiraju</h4>
+                <span>Senior Staff, Website Creator
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/692151503061778492/9f87b4cbd7cb95e63e1248bac6100c3c.webp" alt="">
+              <div class="down-content">
+                <h4>Mihir Sood</h4>
+                <span>Senior Staff</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/692038268451291176/5bdd76643009f735994d1d650ced24f0.webp" alt="">
+              <div class="down-content">
+                <h4>Aadit Mathur</h4>
+                <span>Senior Staff</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/725523045204361228/e19023fb4de412d3f481931590e0a04c.webp" alt="">
+              <div class="down-content">
+                <h4>Janie Zheng</h4>
+                <span>Junior Staff</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/779768853931622502/781aea63ede73562b6aa74715b151af1.webp" alt="">
+              <div class="down-content">
+                <h4>Vibha Mandayam</h4>
+                <span>Junior Staff</span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="team-item">
+              <img src="https://cdn.discordapp.com/avatars/779065933029310474/c2eb165477087167e06fd3ea2b0847ce.webp" alt="">
+              <div class="down-content">
+                <h4>Aadi Bhat</h4>
+                <span>Junior Staff</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
